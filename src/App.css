@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  padding: auto;
+}
+
+h1{
+  text-align: center;
+}
+
+.list-container{
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.list-data{
+  border: 1px solid green;
+  border-radius: 10px;
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  margin: 5px;
+}
+
+
+
+.form{
+  margin-top: 50px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
